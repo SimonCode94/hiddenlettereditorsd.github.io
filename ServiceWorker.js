@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Dyeing-1.0";
 const contentToCache = [
     "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/WebGL.framework.js.gz",
+    "Build/WebGL.data.gz",
+    "Build/WebGL.wasm.gz",
     "TemplateData/style.css"
 
 ];
