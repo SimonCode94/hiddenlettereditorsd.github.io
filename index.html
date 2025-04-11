@@ -59,11 +59,12 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/HiddenLetterWeb.loader.js";
+      var version = 1.0;
+      var loaderUrl = buildUrl + "/HiddenLetterWeb.loader.js?v=" + version;
       var config = {
-        dataUrl: buildUrl + "/HiddenLetterWeb.data",
-        frameworkUrl: buildUrl + "/HiddenLetterWeb.framework.js",
-        codeUrl: buildUrl + "/HiddenLetterWeb.wasm",
+        dataUrl: buildUrl + "/HiddenLetterWeb.data?v=" + version,
+        frameworkUrl: buildUrl + "/HiddenLetterWeb.framework.js?v=" + version,
+        codeUrl: buildUrl + "/HiddenLetterWeb.wasm?v=" + version,
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Dyeing",
