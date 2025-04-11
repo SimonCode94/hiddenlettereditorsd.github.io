@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Dyeing-1.0";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/HiddenLetterWeb.loader.js",
+    "Build/HiddenLetterWeb.framework.js",
+    "Build/HiddenLetterWeb.data",
+    "Build/HiddenLetterWeb.wasm",
     "TemplateData/style.css"
 
 ];
