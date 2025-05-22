@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Dyeing-1.0";
 const contentToCache = [
     "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-    "Build/2dd33fc0f84417e58925bd4f203a4b19.framework.js",
-    "Build/3e6d6bb3dedff02d04b259d3b9b53be8.data",
-    "Build/486f4bcb2e3a31af6ab89c260940f296.wasm",
+    "Build/ec9dfca03ee5c8bb771ec49a54dd6549.framework.js",
+    "Build/0e157aa51879df0ae817e884f1bee026.data",
+    "Build/ce61a72567ef9b7e19d7d2affa5299ac.wasm",
     "TemplateData/style.css"
 
 ];
